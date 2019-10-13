@@ -1,0 +1,1 @@
+# Thue-Morse-OGS-Script
